@@ -37,7 +37,7 @@ const Navbar = () => {
           </svg>
         </label>
         <div className="enlace">
-          <a href="/" className="logo">
+          <a href="/portfolio" className="logo">
             Muhammad Shanif
           </a>
         </div>
