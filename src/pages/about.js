@@ -42,9 +42,9 @@ const About = ({ data, location }) => {
           <br></br>
           Age: 21
           <br></br>
-          Height: 5'8"
+          Height: 171cm
           <br></br>
-          Weight: 50kg
+          Weight: 67kg
           <br></br>
           <br></br>
           You can reach out to me via email or connect with me on Instagram.
