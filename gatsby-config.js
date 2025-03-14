@@ -8,13 +8,14 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+  pathPrefix: "/portfolio",
   siteMetadata: {
     title: `Muhammed Shanif`,
     author: {
       name: `Muhammed Shanif`,
     },
     description: `Shanif's Portfolio.`,
-    siteUrl: `https://example.com`,
+    siteUrl: `https://shanifshanu.github.io/portfolio`,
   },
   plugins: [
     `gatsby-plugin-image`,
